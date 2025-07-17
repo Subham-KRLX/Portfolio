@@ -1,4 +1,4 @@
-html { scroll-behavior: smooth; }
+  html { scroll-behavior: smooth; }
 
 .cp-badge img {
   margin-bottom: -2px;
@@ -556,6 +556,6 @@ footer i.fa-heart { color: #ff6b81;}
   .nav-container { padding: 0 1vw;}
 }
 @keyframes fadeIn {
-  0% { opacity: 0; transform: translateY(28px);}
+  0% { opacity: 0; transform: translateY(28px);},
   100% { opacity: 1; transform: translateY(0);}
 }
